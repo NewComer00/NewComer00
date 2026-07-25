@@ -1,1 +1,1 @@
-[![NewComer00's GitHub stats](https://github-stats-extended-6hdxu62yq-newcomer00s-projects-a4073cd8.vercel.app/api?username=NewComer00&show_icons=true&theme=onedark)](https://github.com/NewComer00/github-stats-extended)
+[![NewComer00's GitHub stats](https://github-stats-extended-ten.vercel.app/api?username=NewComer00&show_icons=true&theme=onedark)](https://github.com/NewComer00/github-stats-extended)
